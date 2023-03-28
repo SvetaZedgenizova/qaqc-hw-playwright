@@ -1,0 +1,4 @@
+if 4 < 5:
+    print('Hello')
+a = 0b11
+print(a)
